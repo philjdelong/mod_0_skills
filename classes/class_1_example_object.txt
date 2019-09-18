@@ -1,0 +1,41 @@
+Object: phil
+name_First = "Phil"
+current_Title = "Server"
+current_Experience = 4
+shift_Start (datetime) = 18:00
+energetic (boolean) = yes
+
+phil = Employee.new("Phil")
+  attr_reader :name_First, :current_Title, :current_Experience, :shift_Start, :energetic
+
+  def initialize(name_First, current_Title, current_Experience)
+    @name_First = name_First
+    @current_Title = current_Title
+    @current_Experience = current_Experience
+  end
+
+  def employee_Introduction
+   p "Hello, my name is #{name_First} and I'll be your #{current_Title}!"
+  end
+=> "Hello, my name is Phil and I'll be your Server!"
+
+  def take_Order
+    time_Stamp_Take_Order
+    gets.chomp[item1, item2, item3]
+      -> "Water"
+      -> "Salad"
+      -> "Burrito"
+    p "Okay, so you'll be having the #{item1} , with #{item2} , and #{item3}."
+  end
+=> "Okay, so you'll be having the Water, with Salad , and Burrito."
+
+  def serve_Order
+    time_Stamp_Serve_Order - time_Stamp_Take_Order / current_Experience = (wait_Time)
+    p "Here's your #{item1} , with #{item2} , and #{item3}. Is there anything else I can get you?"
+  end
+=> "Here's your Water, with Salad , and Burrito. Is there anything else I can get you?"
+
+  def bring_Change
+    amount_Paid - total_Bill = total_Change
+  p "Here's your change of (total_Change). Have a great evening!"
+=> "Here's your change of $4.25. Have a great evening!"

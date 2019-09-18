@@ -1,0 +1,41 @@
+Object: jessica
+name_First = "Jessica"
+current_Title = "Chef"
+current_Experience = 1
+shift_Start (datetime) = 06:00
+energetic (boolean) = yes
+
+Jessica = Employee.new("Jessica")
+  attr_reader :name_First, :current_Title, :current_Experience, :shift_Start, :energetic
+
+  def initialize(name_First, current_Title, current_Experience)
+    @name_First = name_First
+    @current_Title = current_Title
+    @current_Experience = current_Experience
+  end
+
+  def employee_Introduction
+    p "Hello, my name is #{name_First} and I'll be your #{current_Title}!"
+  end
+=> "Hello, my name is Jessica and I'll be your Chef!"
+
+  def receive_Order
+    time_Stamp_Receive_Order (current_Order)
+    order_Array.unshift (current_Order)
+    p order_Array
+  end
+=>
+
+  def cook_Order
+    def cook_Time
+      (one_minute * #{order_Items(3)}) / #{current_Experience}
+      p "Add one! this order will take (cook_Time)."
+    end
+  end
+=> "Add one! This order will take 3 minutes."
+
+  def send_Order
+    order_Array.pop
+    p "Order up! Tell the customer #(name_First) says 'Thanks'!"
+  end
+=> "Order up! Tell the customer Jessica says 'Thanks'!"
