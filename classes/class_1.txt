@@ -1,0 +1,14 @@
+Class: Employee
+
+Attributes:
+name_First (string)
+current_Title (string)
+current_Experience (float)
+shift_Start (datetime)
+nergetic (boolean)
+
+Methods:
+employee_Introduction (prints "Hello, my name is #{name_First} and I'll he your #{current_Title}!")
+take_Order (ime_Stamp_Take_Order at current_Time, gets.chomp for [drink, food, extras])
+serve_Order (serve_Time equals (one minute per item ordered, divide serveTime by current_experience))
+bring_Change (amount_Paid subtracted from total_Bill)
