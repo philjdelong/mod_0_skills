@@ -1,1 +1,84 @@
-//initial commit
+How to become a Turing student
+
+1 Try coding
+  1.1 Attend a 'Try Coding' event
+    1.1.1 Attend Back End Engineering demo
+    1.1.2 Attend Front End Engineering demo
+2 Select program
+  2.1 Select the program that best interests you
+  2.2 Practice coding several times to better understand what software engineering is about
+    2.2.1 Reference 1.1.1 for 'Back End Engineering'
+      2.2.1.1 Notes
+      2.2.1.2 Online tutorials
+      2.2.1.3 Turing resources
+    2.2.2 Reference 1.1.2 for 'Front End Engineering'
+      2.2.1.1 Notes
+      2.2.1.2 Online tutorials
+      2.2.1.3 Turing resources
+3 Aquire funding
+  3.1 Apply for funding
+    3.1.1 Sallie Mae
+      3.1.1.1 Select best rate
+    3.1.1 Skills Fund
+      3.1.1.1 Select best rate
+    3.1.1 Climb Fund
+      3.1.1.1 Select best rate
+4 Complete Mod 0
+  4.1 Session 1
+    4.1.1 Attend class
+      4.1.1.1 Sign into Zoom
+      4.1.1.2 Follow along with Tim and David
+      4.1.1.3 Take notes
+    4.1.2 Complete homework or other tasks
+  4.2 Session 2
+    4.2.1 Attend class
+      4.2.1.1 Sign into Zoom
+      4.2.1.2 Follow along with Tim and David
+      4.2.1.3 Take notes
+    4.2.2 Complete homework or other tasks
+  4.3 Session 3
+    4.3.1 Attend class
+      4.3.1.1 Sign into Zoom
+      4.3.1.2 Follow along with Tim and David
+      4.3.1.3 Take notes
+    4.3.2 Complete homework or other tasks
+  4.4 Session 4
+    4.4.1 Attend class
+      4.4.1.1 Sign into Zoom
+      4.4.1.2 Follow along with Tim and David
+      4.4.1.3 Take notes
+    4.4.2 Complete homework or other tasks
+  4.5 Session 5
+    4.1.1 Attend class
+      4.1.1.1 Sign into Zoom
+      4.1.1.2 Follow along with Tim and David
+      4.1.1.3 Take notes
+      4.1.2 Complete homework or other tasks
+  4.6 Session 6
+    4.1.1 Attend class
+      4.1.1.1 Sign into Zoom
+      4.1.1.2 Follow along with Tim and David
+      4.1.1.3 Take notes
+    4.1.2 Complete homework or other tasks
+  4.7 Mod 0 Skills
+    4.7.1 Enter name and GitHub username
+    4.7.2 Start timer
+    4.7.3 Complete tasks
+      4.7.3.1 Create directory and file in terminal
+      4.7.3.2 Initialize Git repository in terminal
+      4.7.3.3 Add text file to Git and commit to local repository
+      4.7.3.4 New GitHub repository and pair remote to terminal
+      4.7.3.5 Complete Top_Down_Design
+      4.7.3.6 Complete Classes, Objects, Attributes, Methods
+      4.7.3.7 Push to GitHub repository
+      4.7.3.8 DM Tim and David
+  4.8 Mod 0 Capstone
+    4.8.1 Complete Day_1
+    4.8.2 Complete Day_2
+    4.8.3 Complete Day_3
+    4.8.4 Complete Day_4
+    4.8.5 Complete Day_5
+    4.8.6 Complete Day_6
+    4.8.7 Complete Day_7
+    4.8.8 Push work to GitHub repository
+    4.8.9 Submit links to Turing
