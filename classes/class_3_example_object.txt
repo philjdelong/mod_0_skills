@@ -1,0 +1,18 @@
+Object: Dining
+
+Attributes:
+room_name: "Dining Room"
+event_name: "Phil's Coding Party"
+total_tables: 25
+seats_per_table: 4
+current_guests: 80
+no_availability: false
+
+Methods:
+door_message: "Phil's Coding Party is in the Dining Room."
+total_seats: 25 * 4 = 100
+seats_available: 100 - 80 = 20
+at_capacity: seats_available = 20, no_availability = false
+add_table (25 + 1) = 26
+
+//
