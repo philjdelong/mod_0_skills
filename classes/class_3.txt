@@ -1,0 +1,18 @@
+Class: Room
+
+Attributes:
+room_name (string)
+event_name (string)
+total_tables (integer)
+seats_per_table (integer)
+current_guests (integer)
+no_availability (boolean)
+
+Methods:
+door_message (prints a greeting message including the room_name and event_name)
+total_seats: (multiplies total_tables by seats_per_table)
+seats_available: (current_guests subtracted from total_seats)
+at_capacity (if seats_available equals 0, no_availability is true)
+add_table (adds 1 to total_tables)
+
+//
